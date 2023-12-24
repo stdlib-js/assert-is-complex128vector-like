@@ -114,6 +114,14 @@ out = isComplex128VectorLike( null );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/assert-is-complex64vector-like`][@stdlib/assert/is-complex64vector-like]</span><span class="delimiter">: </span><span class="description">test if a value is a 1-dimensional ndarray-like object containing single-precision complex floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/assert-is-ndarray-like`][@stdlib/assert/is-ndarray-like]</span><span class="delimiter">: </span><span class="description">test if a value is ndarray-like.</span>
+-   <span class="package-name">[`@stdlib/assert-is-vector-like`][@stdlib/assert/is-vector-like]</span><span class="delimiter">: </span><span class="description">test if a value is a 1-dimensional ndarray-like object.</span>
+
 </section>
 
 <!-- /.related -->
@@ -157,8 +165,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/assert-is-complex128vector-like.svg
 [npm-url]: https://npmjs.org/package/@stdlib/assert-is-complex128vector-like
 
-[test-image]: https://github.com/stdlib-js/assert-is-complex128vector-like/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/assert-is-complex128vector-like/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/assert-is-complex128vector-like/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/assert-is-complex128vector-like/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-is-complex128vector-like/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/assert-is-complex128vector-like?branch=main
@@ -188,6 +196,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-complex128vector-like/main/LICENSE
 
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-complex64vector-like]: https://github.com/stdlib-js/assert-is-complex64vector-like
+
+[@stdlib/assert/is-ndarray-like]: https://github.com/stdlib-js/assert-is-ndarray-like
+
+[@stdlib/assert/is-vector-like]: https://github.com/stdlib-js/assert-is-vector-like
+
+<!-- </related-links> -->
 
 </section>
 
