@@ -1,5 +1,5 @@
-"use strict";var s=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var t=s(function(n,i){
-var u=require('@stdlib/ndarray-base-assert-is-equal-data-type/dist'),a=require('@stdlib/assert-is-vector-like/dist'),o=require('@stdlib/ndarray-base-dtype/dist');function c(e){return a(e)&&u(o(e),"complex128")}i.exports=c
-});var p=t();module.exports=p;
+"use strict";var u=function(r,e){return function(){try{return e||r((e={exports:{}}).exports,e),e.exports}catch(s){throw (e=0, s)}};};var t=u(function(x,i){
+var a=require('@stdlib/ndarray-base-assert-is-equal-data-type/dist'),o=require('@stdlib/assert-is-vector-like/dist'),c=require('@stdlib/ndarray-base-dtype/dist');function p(r){return o(r)&&a(c(r),"complex128")}i.exports=p
+});var q=t();module.exports=q;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
